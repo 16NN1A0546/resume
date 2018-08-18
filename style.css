@@ -1,0 +1,39 @@
+.parent{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	background:violet;
+}
+.child1{
+	width:30%;
+	border:1px solid #ddd;
+	padding:1%;
+	margin:1%;
+	background:skyblue;
+}
+.profile{
+			display:block;
+			margin-left: auto;
+			margin-right: auto; 
+			width:200px;
+			height:auto;
+		}
+		h2{
+			text-align:center;
+			background:yellow;
+			color:#AD33FF;
+		}
+a{
+	text-decoration: none;
+	font-size: 21px;
+}
+p{
+	font-size: 19px;
+}
+.child2{
+	width:70%;
+	border:1px solid #ddd;
+	padding:1%;
+	margin:1%;
+	background:lightgreen;
+}
